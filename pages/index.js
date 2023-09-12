@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Minha Cremosa, te amo!!!</h1>;
+  return <h1>Em construção...</h1>;
 }
 
 function Teste() {
