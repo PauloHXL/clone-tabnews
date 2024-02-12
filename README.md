@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Projeto para treinar programação
+Clone do site tabnews.com
